@@ -1,0 +1,38 @@
+* {
+    font-family: 'Lekton', sans-serif;
+}
+
+header h1 {
+    position: absolute;
+}
+
+header p {
+    padding-top: 60px
+}
+
+header {
+    height: 96px;
+    margin-left: 20px;
+    padding-left: 136px;
+    background-image: url('logo.png');
+    background-repeat: no-repeat;
+}
+
+footer {
+    font-size: 0.75em;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+#warning {
+    font-weight: bold;
+    color: red;
+}
+
+
+div.links, div.description, footer {
+    max-width: 600px;
+    padding-left: 20px;
+}

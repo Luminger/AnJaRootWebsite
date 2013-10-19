@@ -31,8 +31,6 @@ h2 {
     color: red;
 }
 
-
 div.links, div.description, footer {
-    max-width: 600px;
     padding-left: 20px;
 }

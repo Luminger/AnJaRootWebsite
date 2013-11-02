@@ -31,6 +31,11 @@ h2 {
     color: red;
 }
 
+#info {
+    font-weight: bold;
+    color: green;
+}
+
 div.links, div.description, footer {
     padding-left: 20px;
 }
